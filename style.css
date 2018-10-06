@@ -35,8 +35,9 @@ p {
   }
 body{
     background-color: rgb(78, 211, 235);
-    background-repeat:no-repeat;
-    background-position:top right;
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
     }
 nav {
       background-color: #71ddd8;
