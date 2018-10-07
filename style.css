@@ -13,7 +13,7 @@ h2 {
     font-family: 'Helvetica', sans-serif;
     font-size: 50px;
     font-weight: 200;
-    margin: 0;
+    margin: 10px;
     text-align: center;
     }
   
@@ -21,17 +21,17 @@ h3 {
     color: rgb(6, 88, 31);
     font-family: 'Helvetica', sans-serif;
     font-size: 30px;
-    font-weight: 150;
-    margin: 0;
+    font-weight: 200;
+    margin: 10px;
     text-align: center;
   }
 p {
     color: #333;
     font-family: 'Yantramanav', sans-serif;
-    font-size: 16px;
+    font-size: 24px;
     font-weight: 100;
     margin: 0;
-    text-align: center;
+    text-align: left;
   }
 body{
     background-color: rgb(78, 211, 235);
@@ -53,12 +53,14 @@ li {
       font-weight: 600;
       text-transform: uppercase;
       display: inline-block;
-      width: 80px;
+      width: 120px;
       margin: 10px auto;
       padding: 0 20px;
-      
     }
-    .right {
+
+.left {
       float: left;
       margin: 0 0 1em 1em;
+      padding: 10px;
     }
+    
