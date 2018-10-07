@@ -1,0 +1,75 @@
+h1 {
+    color: rgb(7, 6, 110);
+    font-family: "Arial", "Tahoma", sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+    padding: 20px;
+    text-align: center;
+    }
+  
+h2 {
+    color: blue;
+    font-family: "Helvetica","Tahoma", sans-serif;
+    font-size: 50px;
+    font-weight: 200;
+    margin: 10px;
+    text-align: center;
+    }
+  
+h3 {
+    color: rgb(6, 88, 31);
+    font-family: "Helvetica","Tahoma", sans-serif;
+    font-size: 30px;
+    font-weight: 200;
+    margin: 10px;
+    text-align: center;
+  }
+
+p {
+    color: #333;
+    font-family: "Yantramanav","Tahoma", sans-serif;
+    font-size: 24px;
+    font-weight: 100;
+    margin: 0;
+    text-align: justify;
+    text-indent: 1.5em;
+    }
+
+body{
+    background-color: rgb(78, 211, 235);
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+nav {
+      background-color: #71ddd8;
+      border-bottom: 1px solid #466995;
+      width: 100%;
+      z-index: 10;
+    }
+    
+li {
+      color: #FFF;
+      font-family: "Oswald","Tahoma", sans-serif;
+      font-size: 16px;
+      font-weight: 600;
+      text-transform: uppercase;
+      display: inline-block;
+      width: 120px;
+      margin: 10px auto;
+      padding: 0 20px;
+    }
+
+figure {
+      float: right;
+      width: 30%;
+      text-align: center;
+      font-style: italic;
+      font-size: 18px;
+      text-indent: 0;
+      border: thin silver solid;
+      margin: 0.5em;
+      padding: 0.5em;
+    }
+    
